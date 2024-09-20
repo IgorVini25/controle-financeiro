@@ -1,0 +1,10 @@
+Front-end:
+- ReactJS
+- Bootstrap
+
+Back-end:
+- Typescript
+- NestJS
+- TypeORM
+
+Database: PostgreSQL

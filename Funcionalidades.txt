@@ -1,0 +1,9 @@
+Funcionalidades
+- Despesas fixas
+- Despesas variáveis
+- Ganhos fixos
+- Ganhos variáveis
+- Separação por mês
+- Cadastrar uma compra parcelada e o sistema processar adequadamente
+- Editar valores
+- Tabela Final com junção e contas dos valores, saldo geral, etc
